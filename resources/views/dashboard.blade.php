@@ -2,6 +2,7 @@
 
 @section('body-left')
 
+
     <div class="aside col-xs-12 col-md-2 bg-dark">
         <div class="d-md-flex align-items-start flex-column d-sm-block h-full">
 
