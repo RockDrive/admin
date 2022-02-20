@@ -1,39 +1,14 @@
 {
   "name": "rockdrive/admin",
-  "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
-  "keywords": [
-    "framework",
-    "laravel",
-    "orchid",
-    "platform",
-    "admin",
-    "cmf",
-    "cms",
-    "rad",
-    "extranet"
-  ],
+  "description": "Админка",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://orchid.software",
-  "support": {
-    "issues": "https://github.com/orchidsoftware/platform/issues",
-    "source": "https://github.com/orchidsoftware/platform",
-    "docs": "https://orchid.software/en/docs",
-    "email": "bliz48rus@gmail.com"
-  },
   "authors": [
     {
-      "name": "Alexandr Chernyaev",
-      "email": "bliz48rus@gmail.com",
-      "homepage": "https://tabuna.github.io",
+      "name": "RockDrive",
+      "email": "admin@admin.com",
       "role": "Developer"
     }
-  ],
-  "funding": [
-      {
-          "type": "opencollective",
-          "url": "https://opencollective.com/orchid"
-      }
   ],
   "require": {
       "ext-json": "*",
