@@ -3,6 +3,7 @@
   "description": "Админка",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "RockDrive",
