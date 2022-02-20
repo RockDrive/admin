@@ -43,9 +43,9 @@
                 </div>
             </div>
 
-{{--            <footer class="p-3 mb-2 m-t d-none d-lg-block w-100">--}}
-{{--                @includeFirst([config('platform.template.footer'), 'platform::footer'])--}}
-{{--            </footer>--}}
+            <footer class="p-3 mb-2 m-t d-none d-lg-block w-100">
+                @includeFirst([config('platform.template.footer'), 'platform::footer'])
+            </footer>
 
         </div>
     </div>
